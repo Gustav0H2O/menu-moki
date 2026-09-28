@@ -50,15 +50,5 @@
 ## 📌 Sobre este repositorio
 
 - ✅ Repositorio **público de vitrina** (imágenes + enlace a la demo en vivo).
-- 🔒 El **código fuente no se publica** y el **fork está desactivado**: la plantilla es propiedad de su autor.
+- 🔒 El **código fuente no se publica**: la plantilla es propiedad de su autor.
 - ⚠️ Prototipo creado como propuesta comercial de demostración; **no está afiliado ni respaldado** por el negocio mostrado.
-
-## 📈 ¿Quieres algo así para tu negocio?
-
-Soy **Gustavo Heredia** — TSU en Informática, desarrollo menús digitales y sistemas de pedidos para restaurantes, cafeterías y negocios locales.
-
-- **LinkedIn:** [gustavo-heredia-01567a2b5](https://www.linkedin.com/in/gustavo-heredia-01567a2b5/)
-- **Correo:** newpersonal98@gmail.com
-- **GitHub:** [Gustav0H2O](https://github.com/Gustav0H2O)
-
-Escríbeme y te devuelvo una demo **con tu marca** en 24–48 h, sin costo ni compromiso.
